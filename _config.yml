@@ -7,7 +7,7 @@ title: Foghost
 subtitle: 一点碎碎念
 description:
 author: Foghost
-language: CN
+language: zh
 timezone: 
 
 # URL
@@ -64,6 +64,7 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: landscape
+duoshuo_shortname: foghost
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
